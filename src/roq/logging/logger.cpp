@@ -22,13 +22,6 @@ using namespace std::chrono_literals;
 namespace roq {
 namespace logging {
 
-// === CONSTANTS ===
-
-namespace {
-size_t const LENGTH_ADDR = 32;
-size_t const LENGTH_NAME = 256;
-}  // namespace
-
 // === HELPERS ===
 
 namespace {
